@@ -16,6 +16,7 @@
 
 
 3.Solutions
+
 The system automates these operations, ensuring accurate, fast, and efficient record-keeping.
 
 The system maintains a real-time inventory with updated book statuses, making it easy to track availability.
